@@ -6,7 +6,7 @@ docutils==0.14
 future==0.16.0
 idna==2.7
 pefile==2018.8.8
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 pyTelegramBotAPI==3.6.6
 python-dateutil==2.7.3
